@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
 
       debugShowCheckedModeBanner: false,
       title: 'Diseños',
-      initialRoute: 'boton',
+      initialRoute: 'basico',
 
       routes: {
 
