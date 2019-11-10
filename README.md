@@ -34,7 +34,7 @@ Todas las screenshoots presentadas estan en la carpeta de Imagenes.
 
 | Pantalla | Descripción | Imagenes |
 | --- | --- | --- |
-| 1 | Pantalla de descripcion de algún lugar/objeto | <img src="ScreenShoots/1.png" width=150 heigth="300"> |
+| 1 | Pantalla de descripcion de algún lugar/objeto | <img src="ScreenShots/1.png" width=150 heigth="300"> |
 | 2 | Pantalla de inicio con fecha |<img src="ScreenShoots/2.1.png" width=150 heigth="300"> |
 | 3 | Pantalla con boto seguimiento de la anterior | <img src="ScreenShoots/2.2.png" width=150 heigth="300"> |
 | 4 | Pantalla de menú | <img src="ScreenShoots/3.1.png" width=150 heigth="300"> |
